@@ -1,0 +1,32 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Thompson%
+}{%
+Thompson%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+thompson2017coding}
+\APACinsertmetastar {%
+thompson2017coding}%
+\begin{APACrefauthors}%
+Thompson, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Coding Comes of Age: Coding Is Gradually Making Its Way
+  from Club to Curriculum, Thanks Largely to the Nationwide Science,
+  Technology, Engineering and Mathematics Phenomenon Embraced by So Many
+  American Schools} {Coding comes of age: Coding is gradually making its way
+  from club to curriculum, thanks largely to the nationwide science,
+  technology, engineering and mathematics phenomenon embraced by so many
+  american schools}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{THE Journal (Technological Horizons In
+  Education)}{44}{1}{28}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
